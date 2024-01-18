@@ -52,3 +52,27 @@ class User {
 const user1 = new User("Mau" ,24);
 console.log(user1);
 user1.greet();
+
+
+// ARRAYS
+//arrays can contain arrays 
+//acess by indexes 
+
+// const hobbies  = [""]
+
+//map () ,filter ,reduce 
+
+// array.map((item)=>{
+//     return item + "!";
+// })
+
+// #Destructuring 
+
+// spread operator  [...]
+//const newArray = [...array1Values ,...array2Values]
+
+//controls structure
+// for of loop 
+
+//setTimeout 
+
